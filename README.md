@@ -18,6 +18,9 @@ explain:
 
 
 ##Reference
+
 http://git-scm.com/docs/git-clone
+
 http://stackoverflow.com/questions/16363460/set-up-a-default-directory-structure-on-git-init
+
 http://kevinthompson.info/blog/2013/11/11/using-git-repos-as-project-templates.html

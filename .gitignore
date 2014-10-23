@@ -1,0 +1,13 @@
+# folders and files
+*.log
+*.db
+*.mo
+*.psd
+*.prj
+*.pui
+*.cmd
+*.bat
+*.zip
+*.rar
+
+data

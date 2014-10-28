@@ -11,7 +11,4 @@ setup(
     long_description = 'long description',
     test_suite = 'tests',
     download_url = '',
-    packages = packages,
-    cmdclass = cmdclasses,
-    data_files = data_files,
 )
